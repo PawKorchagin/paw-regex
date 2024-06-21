@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libCREGEX_FILES.a CMakeFiles/CREGEX_FILES.dir/cregex.cc.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libCREGEX_FILES.a

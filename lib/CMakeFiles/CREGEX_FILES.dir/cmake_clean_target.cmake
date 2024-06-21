@@ -1,0 +1,3 @@
+file(REMOVE_RECURSE
+  "libCREGEX_FILES.a"
+)

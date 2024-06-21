@@ -1,0 +1,10 @@
+/.vscode
+/CMakeCache.txt
+/CMakeFiles
+/CTestTestfile.cmake
+/DartConfiguration.tcl
+/Makefile
+/Testing
+/_deps
+/build
+/cmake_install.cmake

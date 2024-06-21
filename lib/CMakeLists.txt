@@ -1,0 +1,1 @@
+add_library(CREGEX_FILES cregex.cc cregex.h)
