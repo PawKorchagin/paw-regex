@@ -1,5 +1,0 @@
-if(EXISTS "/Users/pawkorchargin/Documents/life/code/paw-regex/tests/pgx_tests[1]_tests.cmake")
-  include("/Users/pawkorchargin/Documents/life/code/paw-regex/tests/pgx_tests[1]_tests.cmake")
-else()
-  add_test(pgx_tests_NOT_BUILT pgx_tests_NOT_BUILT)
-endif()
